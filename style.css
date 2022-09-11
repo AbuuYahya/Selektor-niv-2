@@ -1,0 +1,67 @@
+Body {
+  margin: 0;
+  padding: 0;
+  color: #652a0e;
+}
+header {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+article {
+  text-align: center;
+  margin-right: 20%;
+}
+
+.Rubrik-1 {
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Rubrik-2 {
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Rubrik-3 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.box {
+  width: 60rem;
+  height: 10px;
+  border-top: 5px solid;
+  border-right: 1px solid;
+  border-left: 1px solid;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  margin-left: 28rem;
+}
+
+h3,
+::after {
+  text-transform: lowercase;
+}
+
+img {
+  border-radius: 7%;
+  float: right;
+  width: 12%;
+  margin-top: -11rem;
+  margin-right: 35rem;
+}
+
+.text-rubrik {
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  /* display: inline-flex; */
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 30rem;
+}
